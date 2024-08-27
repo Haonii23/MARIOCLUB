@@ -1,12 +1,8 @@
 MARIOCLUB NOTES
-Create a header tag for the webpage:
-* Is in a fixed position using “position: fixed;” on the CSS file
-* Added a background-color: #F63232, which shows a bright red color for the background
-
 Developer Tools for in-webpage edit
 * Right-click, then select Inspect
 * You could also add folder by clicking the Sources tab, select Workspace, then Add folder.
-* Inside the Developer Tools had the capability to edit the webpage willingly
+* Inside the Developer Tools, a developer has the capability to edit the webpage of his/her own will.
 
 
 - Inline Elements
