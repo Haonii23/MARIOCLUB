@@ -1,0 +1,34 @@
+MARIOCLUB NOTES
+Create a header tag for the webpage:
+* Is in a fixed position using “position: fixed;” on the CSS file
+* Added a background-color: #F63232, which shows a bright red color for the background
+
+Developer Tools for in-webpage edit
+* Right-click, then select Inspect
+* You could also add folder by clicking the Sources tab, select Workspace, then Add folder.
+* Inside the Developer Tools had the capability to edit the webpage willingly
+
+
+- Inline Elements
+    - Don’t take up any more room than their content needs
+    - span, img, strong, em, a and more…
+
+- Block-level Elements
+    - Take up the whole width of a page regardless the content
+    - p, div, blockquote, h1, h2, ul, li and more…
+
+
+
+HTML5 SEMANTIC TAGS
+- <main>
+    - For the main content of the webpage, unique to that page
+- <section>
+    - Defines a specific section of a webpage (e.g. blog list, contact info)
+- <article>
+    - Define a bit of the content which makes up the article (e.g. blog post)
+- <aside>
+    - Define some content related to something else (e.g. similar blogs)
+- <header>
+    - For the header of the website - contains nav, title etc.
+- <footer>
+    - For the footer of the website 
